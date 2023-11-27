@@ -1,0 +1,19 @@
+@charset "UTF-8";
+p {
+    text-align: justify;
+    
+}   
+h1 {
+    color: rgb(9, 24, 236);
+    background-color: azure;
+    
+} 
+body {
+    background-color: rgb(141, 141, 141);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+button{
+    background-color: rgb(160, 154, 72);
+    color: red;
+    ;
+}
