@@ -5,3 +5,31 @@
     Verde: #49a09d
     Lilás: #5f2c82
 */
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body,html {
+    background-color: blueviolet;
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+}
+
+main h1, p{
+    text-align: center;
+    padding: 10px;
+}
+
+#ilogin{
+    color: ;
+}
