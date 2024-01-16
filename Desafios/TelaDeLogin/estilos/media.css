@@ -7,6 +7,7 @@
 
     section#log {
         width: 80vw;
+        height: 300px;
     }    
 
     section#log > div#imagem{
@@ -19,6 +20,10 @@
         float: right;
         width: 70%;
     }
+
+    #formulario >p {
+        margin: 20px 0px;
+    }
 }
 
 @media screen and (min-width:992px) {
@@ -28,6 +33,7 @@
 
     section#log {
         width: 950px;
+        height: 350px;
     }    
 
     section#log > div#imagem{
@@ -46,6 +52,8 @@
     }
 
     #formulario >p {
-        font-size: 1.2em;
+        font-size: 1.1em;
+        text-align: justify;
+        margin: 20px 0px;
     }
 }
